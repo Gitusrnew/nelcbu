@@ -20,7 +20,6 @@ bridges:
       channelId: '420247736856739841'       # This ID must be wrapped in single quotes. Example: '244791815503347712'
       relayJoinMessages: true
       relayLeaveMessages: true
-debug: false
   - name: Second bridge
     direction: both
     telegram:
